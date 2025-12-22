@@ -30,13 +30,12 @@ I'm a passionate Full-Stack Developer with a strong foundation in Python and Jav
 - **Netflix Clone** – MERN stack app with admin dashboard, secure auth, and video upload
 - **Job Tracker** – TypeScript + WebSockets app for managing job applications in real-time
 - **AI Agent CLI** – Python-powered assistant that automates common tasks using OpenAI API
-- **3D Portfolio** – Interactive website built with React and Three.js to showcase skills and creativity
 
 ## 📫 Let’s Connect
 
 - 📧 Email: [ali_ndoye@yahoo.com](mailto:ali_ndoye@yahoo.com)
 - 💼 LinkedIn: [linkedin.com/in/ali-ndoye-378a301a7](https://www.linkedin.com/in/ali-ndoye-378a301a7/)
-- 🌐 Portfolio: [alioune-ndoye.netlify.app](https://alioune-ndoye.netlify.app/)
+- 🌐 Portfolio: [alioune-ndoye.netlify.app](https://alioune-ndoye-portfolio.vercel.app/)
 
 ---
 
