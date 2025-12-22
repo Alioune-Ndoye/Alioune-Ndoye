@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Ndoye 👋
+# Hi there, I'm Alioune Ndoye 👋
 
 I'm a passionate Full-Stack Developer with a strong foundation in Python and JavaScript. I bring together design, logic, and user experience to build web applications that solve real-world problems.
 
