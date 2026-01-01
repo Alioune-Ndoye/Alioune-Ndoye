@@ -35,7 +35,7 @@ I'm a passionate Full-Stack Developer with a strong foundation in Python and Jav
 
 - 📧 Email: [ali_ndoye@yahoo.com](mailto:ali_ndoye@yahoo.com)
 - 💼 LinkedIn: [linkedin.com/in/ali-ndoye-378a301a7](https://www.linkedin.com/in/ali-ndoye-378a301a7/)
-- 🌐 Portfolio: [alioune-ndoye.netlify.app](https://alioune-ndoye-portfolio.vercel.app/)
+- 🌐 Portfolio: [alioune-ndoye-portfolio.vercel.app](https://alioune-ndoye-portfolio.vercel.app/)
 
 ---
 
